@@ -1,0 +1,11 @@
+C:\Users\USER\Documents\Coding\Workshop\Languages\C#\Code\numberGuessingGame\bin\Debug\netcoreapp3.1\numberGuessingGame.exe
+C:\Users\USER\Documents\Coding\Workshop\Languages\C#\Code\numberGuessingGame\bin\Debug\netcoreapp3.1\numberGuessingGame.deps.json
+C:\Users\USER\Documents\Coding\Workshop\Languages\C#\Code\numberGuessingGame\bin\Debug\netcoreapp3.1\numberGuessingGame.runtimeconfig.json
+C:\Users\USER\Documents\Coding\Workshop\Languages\C#\Code\numberGuessingGame\bin\Debug\netcoreapp3.1\numberGuessingGame.runtimeconfig.dev.json
+C:\Users\USER\Documents\Coding\Workshop\Languages\C#\Code\numberGuessingGame\bin\Debug\netcoreapp3.1\numberGuessingGame.dll
+C:\Users\USER\Documents\Coding\Workshop\Languages\C#\Code\numberGuessingGame\bin\Debug\netcoreapp3.1\numberGuessingGame.pdb
+C:\Users\USER\Documents\Coding\Workshop\Languages\C#\Code\numberGuessingGame\obj\Debug\netcoreapp3.1\numberGuessingGame.csprojAssemblyReference.cache
+C:\Users\USER\Documents\Coding\Workshop\Languages\C#\Code\numberGuessingGame\obj\Debug\netcoreapp3.1\numberGuessingGame.AssemblyInfoInputs.cache
+C:\Users\USER\Documents\Coding\Workshop\Languages\C#\Code\numberGuessingGame\obj\Debug\netcoreapp3.1\numberGuessingGame.AssemblyInfo.cs
+C:\Users\USER\Documents\Coding\Workshop\Languages\C#\Code\numberGuessingGame\obj\Debug\netcoreapp3.1\numberGuessingGame.dll
+C:\Users\USER\Documents\Coding\Workshop\Languages\C#\Code\numberGuessingGame\obj\Debug\netcoreapp3.1\numberGuessingGame.pdb
